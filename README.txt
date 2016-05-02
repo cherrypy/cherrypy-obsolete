@@ -1,3 +1,8 @@
+IMPORTANT, this repository is obsolete and has been replaced by the cherrypy/cherrypy-repository:
+
+https://github.com/cherrypy/cherrypy
+
+
 * To install, change to the directory where setup.py is located and type
   (Python 2.6 or later needed):
 
